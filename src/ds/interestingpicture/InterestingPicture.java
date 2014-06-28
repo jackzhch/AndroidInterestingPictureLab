@@ -66,3 +66,5 @@ public class InterestingPicture extends Activity {
 		pictureView.invalidate();
     }
 }
+
+// random
